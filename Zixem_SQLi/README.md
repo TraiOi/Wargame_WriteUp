@@ -49,7 +49,7 @@ In viewsource mode:
 | [Level 9](http://www.zixem.altervista.org/SQLi/lvl9.php?id=1) | Medium |
 | ------- | ---------- |
 
- `?id=-9999' union select('/membri/zixem/etc/passwd'),2 ; -- -`
+ `?id=-9999' union select('../etc/passwd'),2 ; -- -`
 
 | [Level 10](http://www.zixem.altervista.org/SQLi/lvl10.php?x=ISwwYGAKYAo%3D) | Pro |
 | ------- | ---------- |
@@ -72,6 +72,7 @@ Then enter this url `http://www.zixem.altervista.org/SQLi/md5cracker.php?hash=d1
 
 Now we know the passwords contains **only numbers**. Let's make some code to bruteforce the login page.
 
+Then we can get the password and see the result.
 
 #### SQLi-Blind challenges
 
