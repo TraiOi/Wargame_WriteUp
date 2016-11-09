@@ -72,7 +72,7 @@ Then enter this url `http://www.zixem.altervista.org/SQLi/md5cracker.php?hash=d1
 
 Now we know the passwords contains **only numbers**. Let's make some [code](https://github.com/TraiOi/Wargame_WriteUp/blob/master/Zixem/Zixem_SQLi/bruteforce.py) to bruteforce the login page.
 
-Then we can get the password and see the result.
+Then we get the password, login and see the result.
 
 #### SQLi-Blind challenges
 
