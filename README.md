@@ -2,4 +2,4 @@
 
 **Author:** TraiOi
 
- * [Zixem SQLi](https://github.com/TraiOi/Wargame_WriteUp/blob/master/Zixem_SQLi/README.md)
+ * [Zixem Challenges](https://github.com/TraiOi/Wargame_WriteUp/blob/master/Zixem/README.md)
