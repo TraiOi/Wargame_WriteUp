@@ -44,8 +44,12 @@ In viewsource mode:
 | [Level 8](http://www.zixem.altervista.org/SQLi/lvl8.php?id=1) | Hard |
 | ------- | ---------- |
 
+ `?id=(-9999)UNION(SselectELECT(user()),version(),3)`
+
 | [Level 9](http://www.zixem.altervista.org/SQLi/lvl9.php?id=1) | Medium |
 | ------- | ---------- |
+
+ 
 
 | [Level 10](http://www.zixem.altervista.org/SQLi/lvl10.php?x=ISwwYGAKYAo%3D) | Pro |
 | ------- | ---------- |
