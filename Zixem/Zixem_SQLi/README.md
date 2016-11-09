@@ -70,7 +70,7 @@ You can use my md5Cracker .
 ```
 Then enter this url `http://www.zixem.altervista.org/SQLi/md5cracker.php?hash=d1fd6ef9af6cb677e09b1b0a68301e0c` and we find the first password. Enter it to login page and get hint.
 
-Now we know the passwords contains **only numbers**. Let's make some code to bruteforce the login page.
+Now we know the passwords contains **only numbers**. Let's make some [code](https://github.com/TraiOi/Wargame_WriteUp/blob/master/Zixem/Zixem_SQLi/bruteforce.py) to bruteforce the login page.
 
 Then we can get the password and see the result.
 
