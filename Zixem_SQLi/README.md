@@ -19,3 +19,31 @@
 
 | [Level 2](http://www.zixem.altervista.org/SQLi/level2.php?showprofile=4) | Easy |
 | ------- | ---------- |
+
+| [Level 3](http://www.zixem.altervista.org/SQLi/level3.php?item=3) | Medium |
+| ------- | ---------- |
+
+| [Level 4](http://www.zixem.altervista.org/SQLi/level4.php?ebookid=7) | Normal |
+| ------- | ---------- |
+
+| [Level 7](http://www.zixem.altervista.org/SQLi/level7.php?id=1) | Medium |
+| ------- | ---------- |
+
+| [Level 8](http://www.zixem.altervista.org/SQLi/lvl8.php?id=1) | Hard |
+| ------- | ---------- |
+
+| [Level 9](http://www.zixem.altervista.org/SQLi/lvl9.php?id=1) | Medium |
+| ------- | ---------- |
+
+| [Level 10](http://www.zixem.altervista.org/SQLi/lvl10.php?x=ISwwYGAKYAo%3D) | Pro |
+| ------- | ---------- |
+
+#### BF challenges
+
+| [Level 5](http://www.zixem.altervista.org/SQLi/login_lvl5.php) | Hard |
+| ------- | ---------- |
+
+#### SQLi-Blind challenges
+
+| [Level 6](http://www.zixem.altervista.org/SQLi/blind_lvl6.php?serial=10) | Expererinced |
+| ------- | ---------- |
