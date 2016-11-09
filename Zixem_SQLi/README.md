@@ -59,6 +59,20 @@ In viewsource mode:
 | [Level 5](http://www.zixem.altervista.org/SQLi/login_lvl5.php) | Hard |
 | ------- | ---------- |
 
+First, viewsource this login page and scroll down to end, we will find those red lines.
+
+```
+If you want hint, enter this password.
+------
+~~~~~~~~~~~~~~~~~~ password: d1fd6ef9af6cb677e09b1b0a68301e0c ~~~~~~~~~~~~~~~~~~~~~~
+You can use my md5Cracker .
+~~~~~~~~~~~~~~~~~~~~~~~~here: md5cracker.php~~~~~~~~~~~~~~~~~
+```
+Then enter this url `http://www.zixem.altervista.org/SQLi/md5cracker.php?hash=d1fd6ef9af6cb677e09b1b0a68301e0c` and we find the first password. Enter it to login page and get hint.
+
+Now we know the passwords contains **only numbers**. Let's make some code to bruteforce the login page.
+
+
 #### SQLi-Blind challenges
 
 | [Level 6](http://www.zixem.altervista.org/SQLi/blind_lvl6.php?serial=10) | Expererinced |
