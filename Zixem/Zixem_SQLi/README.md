@@ -78,3 +78,18 @@ Then we get the password, login and see the result.
 
 | [Level 6](http://www.zixem.altervista.org/SQLi/blind_lvl6.php?serial=10) | Expererinced |
 | ------- | ---------- |
+
+Test the url:
+
+ `?serial=10 and 1=1` return True
+ 
+ `?serial=10 and 1=0` return False
+ 
+Yes, then we know this is Boolean-based Blind SQL Injection.
+
+All we have:
+
+ * Table : teachers
+ 
+ * Columns : teacher, price, age
+ 
