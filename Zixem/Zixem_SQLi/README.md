@@ -91,6 +91,6 @@ All we can guess name of columns and table:
 
  * Table : teachers
  
- * Columns : teacher, price, id (I can't guess name of "age" column, I tried `age`, `ages`, `year_old`, .. but not correct)
+ * Columns : teacher, price, id (I can't guess name of "age" column, I tried `age`, `ages`, `year_old`, .. but not correct, hope you can find it and comment for me)
  
 Need some [code](https://github.com/TraiOi/Wargame_WriteUp/blob/master/Zixem/Zixem_SQLi/blindsqli.py) to solve it, run and wait and get information.
