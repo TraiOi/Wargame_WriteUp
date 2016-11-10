@@ -87,9 +87,10 @@ Test the url:
  
 Yes, then we know this is Boolean-based Blind SQL Injection.
 
-All we have:
+All we can guess name of columns and table:
 
  * Table : teachers
  
- * Columns : teacher, price, age
+ * Columns : teacher, price, id (I can't guess name of "age" column, I tried `age`, `ages`, `year_old`, .. but not correct)
  
+Need some [code](https://github.com/TraiOi/Wargame_WriteUp/blob/master/Zixem/Zixem_SQLi/blindsqli.py) to solve it, run and wait and get information.
