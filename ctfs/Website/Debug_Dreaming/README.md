@@ -4,6 +4,6 @@
 
 ## Write Up
 
-getflag.py
+[getflag.py](https://github.com/TraiOi/Wargame_WriteUp/blob/master/ctfs/Website/Debug_Dreaming/getflag.py)
 
 ## Another Write-up
