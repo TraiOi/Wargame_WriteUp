@@ -2,4 +2,4 @@
 
 | Misi | Points | Level |
 | ---- | ------ | ----- |
-| Debug Dreaming | 30 | Easy |
+| [Debug Dreaming](https://github.com/TraiOi/Wargame_WriteUp/blob/master/ctfs/Website/Debug_Dreaming/README.md) | 30 | Easy |
