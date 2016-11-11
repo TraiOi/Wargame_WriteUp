@@ -12,6 +12,7 @@
 #===============================================================================
 
 set -o nounset                              # Treat unset variables as an error
+git pull
 git add *
 git commit -m "Updated $1"
 git push
