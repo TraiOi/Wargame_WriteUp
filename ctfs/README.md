@@ -2,7 +2,7 @@
 
 | Category | Numbers | Solved |
 | -------- | ------- | ------ |
-| [Website](https://github.com/TraiOi/Wargame_WriteUp/blob/master/ctfs/Website/README.md) | 14 | 2 |
+| [Website](https://github.com/TraiOi/Wargame_WriteUp/blob/master/ctfs/Website/README.md) | 14 | 3 |
 | Trivia | 1 | 0 |
 | Stegano | 2 | 0 |
 | Reversing | 3 | 0 |
