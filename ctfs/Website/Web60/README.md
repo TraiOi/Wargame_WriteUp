@@ -4,6 +4,6 @@
 
 ## Write Up
 
-getflag.py
+[getflag.py](https://github.com/TraiOi/Wargame_WriteUp/blob/master/ctfs/Website/Web60/getflag.py)
 
 ## Another Write-up
