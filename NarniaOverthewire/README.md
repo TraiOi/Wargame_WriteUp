@@ -38,3 +38,9 @@ Password: narnia0
 ```
 
 Data for the levels can be found in **/narnia/**.
+
+#### Narnia's list
+
+| Challenge | Username | Password |
+| --------- | -------- | -------- |
+| [narnia0](https://github.com/TraiOi/Wargame_WriteUp/blob/master/NarniaOverthewire/narnia0/README.md) | narnia0 | narnia0 | 
