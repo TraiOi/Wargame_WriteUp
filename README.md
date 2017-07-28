@@ -9,3 +9,4 @@
 | [Root Me](https://github.com/TraiOi/Wargame_WriteUp/blob/master/Rootme/README.md) | https://www.root-me.org/ | RootMe Team |
 | [Pwnable.kr](https://github.com/TraiOi/Wargame_WriteUp/blob/master/Pwnable.kr/README.md) | http://pwnable.kr | KAIST CySec Lab |
 | [Narnia Overthewire](https://github.com/TraiOi/Wargame_WriteUp/blob/master/NarniaOverthewire/README.md) | http://overthewire.org/wargames/narnia/ | nite |
+| [testhacker](./Hotamago_testhacker) | http://hotamago.esy.es/testhacker/ | Hotamago |
